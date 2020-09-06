@@ -1,0 +1,7 @@
+#sample-file
+orange
+apple
+mango
+strawberry
+grapes
+banana
